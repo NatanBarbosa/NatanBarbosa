@@ -1,16 +1,23 @@
-### Hi there 👋
+# Bem vindo ao meu perfil!
 
-<!--
-**NatanBarbosa/NatanBarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Conheça-me melhor
+- Tenho interesse em: **trabalhar com desenvolvimento web**
+- 👨‍💻 Atualmente estou estudando no(a):
+  - **Instituto PROA** > Programação web java
+  - **Fatec São Bernardo do Campo** > Informática para negócios
+- ❓ Tecnologias que ainda quero aprender
+  - **Java, Phyton**
+- 🎮 Meus passatempos favoritos: **Jogos e atividade física**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/NatanBarbosa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatanBarbosa&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanBarbosa&layout=compact&langs_count=7&theme=darcula"/>
+</div>
+  
+---
+  
+  ### ✅ Tecnologias que já conheço
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html-5" width=50/>
